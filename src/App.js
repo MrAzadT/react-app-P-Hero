@@ -1,9 +1,7 @@
+import TopBar from "./topbar/TopBar";
+
 function App() {
-  return (
-    <div className="App">
-      <h1>azad</h1>
-    </div>
-  );
+  return <TopBar />;
 }
 
 export default App;
