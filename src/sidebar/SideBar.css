@@ -1,0 +1,7 @@
+.sidebar {
+  flex: 3;
+}
+.sidebarImg {
+  width: 300px;
+  height: 200px;
+}
