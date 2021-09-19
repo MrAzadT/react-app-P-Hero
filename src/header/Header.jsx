@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import img6 from "../img/img-6.jpg";
+import img8 from "../img/img-8.jpg";
 
 function Header() {
   return (
@@ -9,7 +9,7 @@ function Header() {
         <span className="headerTitleSm">React & Node</span>
         <span className="headerTitleLg">Blog</span>
       </div>
-      <img className="HeaderImg" src={img6} alt="img" />
+      <img className="headerImg" src={img8} alt="img" />
     </div>
   );
 }
