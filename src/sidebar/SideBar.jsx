@@ -9,7 +9,7 @@ function SideBar() {
         <img className="sidebarImg" src={laptop} alt="" />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-          minima, sapiente in eum dolorum aut totam voluptatum,
+          minima, sapiente in eum dolorum aut ,
         </p>
       </div>
       <div className="sidebarItem">
