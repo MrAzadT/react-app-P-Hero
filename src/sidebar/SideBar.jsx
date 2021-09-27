@@ -13,7 +13,7 @@ function SideBar() {
         </p>
       </div>
       <div className="sidebarItem">
-        <span className=""> </span>
+        <span className="sidebarTitle">CATAGORIES </span>
       </div>
     </div>
   );
