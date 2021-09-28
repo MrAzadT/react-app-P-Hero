@@ -6,7 +6,7 @@ function Write() {
       <form action="" className="writeForm">
         <div className="writeFormGroup">
           <label htmlFor="fileInput">
-            <i class="fas fa-plus-square"></i>
+            <i className=" writeIcon fas fa-plus-circle"></i>
           </label>
           <input type="file" id="fileInput" style={{ display: "none" }} />
           <input
@@ -24,7 +24,7 @@ function Write() {
             className="writeInput writeText"
           ></textarea>
         </div>
-        <button className="writeSubmit"></button>
+        <button className="writeSubmit">Publish</button>
       </form>
     </div>
   );
