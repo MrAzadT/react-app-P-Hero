@@ -17,7 +17,7 @@ export default function Post() {
           Lorem ipsum dolor sit amet consectetur.
         </span>
         <hr />
-        <span className="postDate">1 h ago</span>
+        <span className="postDate">2 h ago</span>
       </div>
     </div>
   );
