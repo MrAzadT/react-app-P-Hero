@@ -21,7 +21,21 @@ function SinglePost() {
           <span className="singlePostAuthor">
             <b>Azad</b>
           </span>
+          <span className="singlePostAuDate"> 2 hour ago</span>
         </div>
+        <p className="singlePostDis">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, nam?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi ipsa
+          quis odio. Temporibus est iure recusandae sed. Quis at magnam libero
+          esse sed, optio dicta in repellendus exercitationem, ullam atque nobis
+          dolor possimus quo. Modi eum aspernatur quae accusantium deserunt,
+          ipsam unde ex velit nobis odit, nulla maiores error voluptatum? Lorem
+          ipsum dolor sit amet consectetur adipisicing elit. Animi ipsa quis
+          odio. Temporibus est iure recusandae sed. Quis at magnam libero esse
+          sed, optio dicta in repellendus exercitationem, ullam atque nobis
+          dolor possimus quo. Modi eum aspernatur quae accusantium deserunt,
+          ipsam unde ex velit nobis odit, nulla maiores error voluptatum?{" "}
+        </p>
       </div>
     </div>
   );

@@ -3,6 +3,15 @@
 }
 .singlePostImg {
   width: 100%;
-
   object-fit: cover;
+  height: 300px;
+  border-radius: 5px;
+}
+.singlePostWrapper {
+  padding: 20px;
+  padding-right: 0;
+}
+.singlePostTitle {
+  text-align: center;
+  font-family: "lora", serif;
 }
