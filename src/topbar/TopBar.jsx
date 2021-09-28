@@ -38,11 +38,23 @@ function TopBar() {
         </ul>
       </div>
       <div className="topRight">
-        <img
-          className="topImg"
-          src="https://res.cloudinary.com/abidazad/image/upload/v1632753929/Abid_1_fbusav.jpg"
-          alt="img"
-        />
+        {user ? (
+          <img
+            className="topImg"
+            src="https://res.cloudinary.com/abidazad/image/upload/v1632753929/Abid_1_fbusav.jpg"
+            alt="img"
+          />
+        ) : (
+          <>
+            <Link className="link" to="/">
+              LOGIN
+            </Link>
+            <Link className="link" to="/">
+              REGISTER
+            </Link>
+          </>
+        )}
+
         <i className="topSearchIcon fas fa-search"></i>
       </div>
     </div>
