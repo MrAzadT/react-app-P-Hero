@@ -27,3 +27,8 @@
   font-weight: 600;
   cursor: pointer;
 }
+.postDate {
+  margin-top: 10px;
+
+  color: rgb(107, 106, 106);
+}
