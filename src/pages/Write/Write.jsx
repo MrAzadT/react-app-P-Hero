@@ -3,6 +3,11 @@ import "./Write.css";
 function Write() {
   return (
     <div className="Write">
+      <img
+        className="writeImg"
+        src="https://res.cloudinary.com/abidazad/image/upload/v1632834436/bg_xikpkv.jpg"
+        alt=""
+      />
       <form action="" className="writeForm">
         <div className="writeFormGroup">
           <label htmlFor="fileInput">
