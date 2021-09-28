@@ -13,5 +13,21 @@
 }
 .singlePostTitle {
   text-align: center;
+  margin: 10px;
   font-family: "lora", serif;
+  font-size: 1.7rem;
+}
+.singlePostEdit {
+  float: right;
+  font-size: 1rem;
+}
+.singlePostIcon {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.singlePostIcon:first-child {
+  color: green;
+}
+.singlePostIcon:last-child {
+  color: red;
 }
