@@ -31,3 +31,16 @@
 .singlePostIcon:last-child {
   color: red;
 }
+.singlePostInfo {
+  display: flex;
+
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.singlePostDis {
+  color: gray;
+  line-height: 1.5rem;
+}
+.singlePostDis::first-letter {
+  margin-left: 20px;
+}
