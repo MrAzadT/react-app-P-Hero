@@ -10,10 +10,17 @@ function SinglePost() {
           alt=""
           className="singlePostImg"
         />
-        <h1 className="singlePostTitle">ipsum dolor sit amet.</h1>
-        <div className="singlePostEdit">
-          <i class="far fa-edit"></i>
-          <i class="far fa-trash-alt"></i>
+        <h1 className="singlePostTitle">
+          ipsum dolor sit amet.
+          <div className="singlePostEdit">
+            <i className=" singlePostIcon far fa-edit"></i>
+            <i className=" singlePostIcon far fa-trash-alt"></i>
+          </div>
+        </h1>
+        <div className="singlePostInfo">
+          <span className="singlePostAuthor">
+            <b>Azad</b>
+          </span>
         </div>
       </div>
     </div>
