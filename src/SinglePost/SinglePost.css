@@ -43,4 +43,6 @@
 }
 .singlePostDis::first-letter {
   margin-left: 20px;
+  font-size: 30px;
+  font-weight: 600;
 }
