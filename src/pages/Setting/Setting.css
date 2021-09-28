@@ -52,10 +52,10 @@
   justify-content: center;
   align-items: center;
   border: none;
-  border-radius: 50%;
+  border-radius: 40%;
   margin-left: 10px;
   color: white;
-  background-color: rgb(216, 100, 100);
+  background-color: rgb(240, 84, 219);
   cursor: pointer;
 }
 
