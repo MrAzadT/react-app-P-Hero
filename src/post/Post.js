@@ -31,6 +31,8 @@ export default function Post() {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, possimus
         aliquam quaerat id architecto earum magnam perferendis nihil quo error
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, possimus
+        aliquam quaerat id architecto earum magnam perferendis nihil quo error
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, possimus
       </p>
     </div>
   );
