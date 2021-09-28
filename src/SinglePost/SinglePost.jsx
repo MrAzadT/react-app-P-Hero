@@ -10,7 +10,7 @@ function SinglePost() {
           alt=""
           className="singlePostImg"
         />
-        <h1 className="singlePostTitle">Lorem ipsum dolor sit amet.</h1>
+        <h1 className="singlePostTitle">ipsum dolor sit amet.</h1>
         <div className="singlePostEdit">
           <i class="far fa-edit"></i>
           <i class="far fa-trash-alt"></i>
