@@ -6,12 +6,24 @@ import Single from "./pages/Single/Single";
 import Write from "./pages/Write/Write";
 import TopBar from "./topbar/TopBar";
 
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+
 function App() {
   return (
-    <div>
+    <Router>
       <TopBar />
-      <Register />
-    </div>
+      <Switch>
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route path="/register">
+          <Register />
+        </Route>
+        <Route path="/login">
+          <Login />
+        </Route>
+      </Switch>
+    </Router>
   );
 }
 
