@@ -45,14 +45,16 @@ function TopBar() {
             alt="img"
           />
         ) : (
-          <>
-            <Link className="link" to="/">
-              LOGIN
-            </Link>
-            <Link className="link" to="/">
-              REGISTER
-            </Link>
-          </>
+          <ul className="topList">
+            <li className="topListItem">
+              <Link className="link" to="/login">
+                LOGIN
+              </Link>
+              <Link className="link" to="/register">
+                REGISTER
+              </Link>
+            </li>
+          </ul>
         )}
 
         <i className="topSearchIcon fas fa-search"></i>
