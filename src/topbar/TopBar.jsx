@@ -24,13 +24,13 @@ function TopBar() {
             </Link>
           </li>
           <li className="topListItem">
-            CONTACT{" "}
-            <Link className="link" to="/">
+            CONTACT
+            <Link className="link" to="/about">
               ABOUT
             </Link>
           </li>
           <li className="topListItem">
-            <Link className="link" to="/">
+            <Link className="link" to="/write">
               WRITE
             </Link>
           </li>
