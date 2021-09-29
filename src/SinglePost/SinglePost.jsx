@@ -11,7 +11,7 @@ function SinglePost() {
           className="singlePostImg"
         />
         <h1 className="singlePostTitle">
-          ipsum dolor sit amet.
+          ipsum dolor sit amet azad tamal.
           <div className="singlePostEdit">
             <i className=" singlePostIcon far fa-edit"></i>
             <i className=" singlePostIcon far fa-trash-alt"></i>
@@ -34,7 +34,7 @@ function SinglePost() {
           odio. Temporibus est iure recusandae sed. Quis at magnam libero esse
           sed, optio dicta in repellendus exercitationem, ullam atque nobis
           dolor possimus quo. Modi eum aspernatur quae accusantium deserunt,
-          ipsam unde ex velit nobis odit, nulla maiores error voluptatum?{" "}
+          ipsam unde ex velit nobis odit, nulla maiores error voluptatum?
         </p>
       </div>
     </div>
