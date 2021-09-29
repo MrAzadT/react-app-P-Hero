@@ -14,12 +14,12 @@ function TopBar() {
       <div className="topCenter">
         <ul className="topList">
           <li className="topListItem">
-            <Link className="link" to="/home">
+            <Link className="link" to="/">
               HOME
             </Link>
           </li>
           <li className="topListItem">
-            <Link className="link" to="/about">
+            <Link className="link" to="/">
               ABOUT
             </Link>
           </li>
