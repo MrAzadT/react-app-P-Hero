@@ -23,10 +23,10 @@ function TopBar() {
               ABOUT
             </Link>
           </li>
+          <li className="topListItem">CONTACT</li>
           <li className="topListItem">
-            CONTACT
-            <Link className="link" to="/about">
-              ABOUT
+            <Link className="link" to="/write">
+              POST
             </Link>
           </li>
           <li className="topListItem">
